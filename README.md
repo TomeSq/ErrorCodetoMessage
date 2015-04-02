@@ -1,0 +1,2 @@
+# ErrorCodetoMessage
+GetLastErrorで取得したエラーコードを日本語と英語文字列にて出力する。
